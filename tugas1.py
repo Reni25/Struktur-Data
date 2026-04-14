@@ -1,5 +1,5 @@
 nama=input("MASUKKAN NAMA PENDEK ANDA :")
-if nama == "Roni":
+if nama == "Reni":
     print(f"selamat datang {nama}")
 else:
     print("program selesai")
