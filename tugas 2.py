@@ -4,7 +4,7 @@
 print("SELAMAT DATANG!")
 print("Program Tabel Perkalian\n")
 # Cek nama
-nama = input("Masukan nama anda: ").strip().lower()
+nama = input("Masukan nama anda: ")
 
 if nama == "reni":
     print("\n nama benar! Lanjut ke tabel perkalian...")
