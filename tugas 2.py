@@ -1,7 +1,7 @@
 # ========================================
 # PROGRAM TABEL PERKALIAN - RENI
 # ========================================
-print("SELAMAT DATANG!")
+print("SELAMAT DATANG Reni!")
 print("Program Tabel Perkalian\n")
 # Cek nama
 nama = input("Masukan nama anda: ")
@@ -28,12 +28,12 @@ if nama == "reni":
             print("Selesai!")
             
         else:
-            print("❌ Masukkan angka 1-10 saja!")
+            print("Masukkan angka 1-10 saja!")
             
     except ValueError:
-        print("❌ Harus angka!")
+        print("Harus angka!")
         
 else:
-    print("❌ silahkan coba lagi")
+    print("silahkan coba lagi")
 
 print("\nTerima kasih!")
